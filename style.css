@@ -2,9 +2,9 @@
 // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
 font-family: "TTLakes"; 
 // адрес шрифта и тип 
-src: url("../fonts/TTLakes.ttf") format("truetype"),
-		url("../fonts/TTLakes.woff") format("truetype"),
-		url("../fonts/TTLakes.eot") format("truetype"); 
+src: url("fonts/TTLakes.ttf") format("truetype"),
+		url("fonts/TTLakes.woff") format("truetype"),
+		url("fonts/TTLakes.eot") format("truetype"); 
 font-style: normal; 
 font-weight: normal; 
 } 
